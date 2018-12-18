@@ -1,0 +1,5 @@
+﻿  DllLoader.cpp
+D:\vsproject\Memory DLL\DllLoader\DllLoader.cpp(22): warning C4244: “初始化”: 从“std::streamoff”转换到“unsigned int”，可能丢失数据
+D:\vsproject\Memory DLL\DllLoader\DllLoader.cpp(27): warning C4244: “参数”: 从“std::streamoff”转换到“size_t”，可能丢失数据
+  MemoryModule.c
+  DllLoader.vcxproj -> D:\vsproject\Memory DLL\Debug\DllLoader.exe
